@@ -21,11 +21,13 @@ pip install -r requirements.txt
 
 ## Training 
 - Entrypoints: `script/moe_1/finetune_dinov2_imagenet_moe_*.py`
+Checkpoints (https://drive.google.com/drive/folders/12k54z20p6tG3SsSp3tYmVQysAjF9salg?usp=sharing)
 
 Example (moe_6):
 ```bash
 python script/moe_1/finetune_dinov2_imagenet_moe_6.py
 ```
+
 
 ## Citation
 If you find our idea or code inspiring, please cite our paper:
