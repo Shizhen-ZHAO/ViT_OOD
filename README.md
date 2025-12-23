@@ -3,7 +3,7 @@
 
 Shizhen Zhao, Jiahui Liu, Xin Wen, Haoru Tan, XiaoJuan Qi
 
-This repository is the official PyTorch implementation of the paper (https://arxiv.org/abs/2510.10584).
+This repository is the official PyTorch implementation of the [paper](https://arxiv.org/abs/2510.10584).
 
 
 
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ## Training 
 - Entrypoints: `script/moe_1/finetune_dinov2_imagenet_moe_*.py`
-Checkpoints(https://drive.google.com/drive/folders/12k54z20p6tG3SsSp3tYmVQysAjF9salg?usp=sharing)
+[Checkpoints](https://drive.google.com/drive/folders/12k54z20p6tG3SsSp3tYmVQysAjF9salg?usp=sharing)
 
 Example (moe_6):
 ```bash
