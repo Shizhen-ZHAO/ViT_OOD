@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="147.8.181.241" id="430956d2-dc37-48ff-ac02-69ae576f0637" port="22" nameFormat="DESCRIPTIVE" username="szzhao" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="10.81.136.39" id="4a589b25-288b-492b-9d3e-457fcd428c6e" port="22" nameFormat="DESCRIPTIVE" username="xinwen" useOpenSSHConfig="true" />
+      <sshConfig host="147.8.181.238" id="a26c81ec-f7b8-471c-bf9e-505ac3bed1fd" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="szzhao" useOpenSSHConfig="true" />
+      <sshConfig host="10.81.136.40" id="0edf48c6-5b61-4dcb-be2d-d1ec0c4e770a" keyPath="$USER_HOME$/.ssh/login_rsa_sm" port="22" nameFormat="DESCRIPTIVE" username="xinwen" useOpenSSHConfig="true" />
+      <sshConfig host="147.8.181.244" id="12a413eb-7bd9-4b4d-9f5e-9ae2781fc9c6" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="jiahliu" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

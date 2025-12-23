@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e391729b-95cc-462e-bbfd-a9a297c6c222" name="16">
+        <fileTransfer rootFolder="/home/szzhao/OOD/FD_OOD" accessType="SFTP" host="147.8.181.241" port="22" sshConfigId="6b07f972-811e-4b12-b0b8-81c0ada06b4f" sshConfig="szzhao@147.8.181.241:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6f17c8ab-741d-49f9-b3f8-fd1fd4f5f74f" name="a100">
+        <fileTransfer rootFolder="/home/jiahliu/process_ood" accessType="SFTP" host="147.8.181.238" port="22" sshConfigId="89114481-dab2-441c-a7dd-3dbf01129102" sshConfig="szzhao@147.8.181.238:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="11a17088-7be1-479f-a129-fab9e4ac8717" name="14">
+        <fileTransfer rootFolder="/home/szzhao/OOD/dinov2" accessType="SFTP" host="147.8.181.238" port="22" sshConfigId="89114481-dab2-441c-a7dd-3dbf01129102" sshConfig="szzhao@147.8.181.238:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

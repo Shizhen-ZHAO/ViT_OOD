@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3ef27b07-f52a-4496-8b5e-88f8e983d411" name="16">
+        <fileTransfer rootFolder="/home/szzhao/OOD/OOD_ViT" accessType="SFTP" host="147.8.181.241" port="22" sshConfigId="430956d2-dc37-48ff-ac02-69ae576f0637" sshConfig="szzhao@147.8.181.241:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="655ef508-9a26-4b6d-a430-7dd6e2629907" name="a100">
+        <fileTransfer rootFolder="/home/jiahliu/project009" accessType="SFTP" host="147.8.181.244" port="22" sshConfigId="12a413eb-7bd9-4b4d-9f5e-9ae2781fc9c6" sshConfig="jiahliu@147.8.181.244:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9581143d-9d13-4ba6-aedc-1d51518c01dd" name="14">
+        <fileTransfer rootFolder="/home/szzhao/OOD/OOD_ViT" accessType="SFTP" host="147.8.181.238" port="22" sshConfigId="a26c81ec-f7b8-471c-bf9e-505ac3bed1fd" sshConfig="szzhao@147.8.181.238:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a1349720-3b0b-4bfa-a791-dec00891cbb8" name="sm">
+        <fileTransfer rootFolder="/dataset/xinwen/work/OOD_ViT" accessType="SFTP" host="10.81.136.40" port="22" sshConfigId="0edf48c6-5b61-4dcb-be2d-d1ec0c4e770a" sshConfig="xinwen@10.81.136.40:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
